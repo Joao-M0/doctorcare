@@ -122,7 +122,7 @@ section .content p {
 
   text-decoration: none;
 
-  transition: 200ms;
+  transition: background 200ms;
 }
 
 .button:hover {
@@ -474,7 +474,7 @@ footer .social-links {
   visibility: hidden;
 
   transform: translateY(100%);
-  transition: 300ms;
+  transition: transform 300ms;
 }
 
 #backToTopButton.show {
