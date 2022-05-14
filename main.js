@@ -95,8 +95,3 @@ ScrollReveal({
 #about .content,
 #about .content img`)
 
-function sayMyName(nome) {
-  console.log(nome)
-}
-
-sayMyName('João')
